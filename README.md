@@ -1,4 +1,4 @@
-Mapping algorithms analyzer
+Business Analysis
 =====================================
 As part of the **SAS course**, we have prepared a solution to one of projects, the theme of which
 is to write an analyzer of court decisions. 
